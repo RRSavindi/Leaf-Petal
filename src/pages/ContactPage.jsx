@@ -38,12 +38,6 @@ const ContactPage = () => (
             </div>
           </div>
           
-          <div className="bg-gray-100 p-4 rounded-lg">
-            <p className="text-sm text-gray-600 mb-2">📍 Google Maps would be embedded here</p>
-            <div className="bg-gray-200 h-48 rounded flex items-center justify-center">
-              <span className="text-gray-500">Interactive Map</span>
-            </div>
-          </div>
         </div>
         
         <div>
